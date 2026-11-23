@@ -1,5 +1,7 @@
 # TagFusion
 
+> Part of my [portfolio](https://github.com/Spendry/portfolio).
+
 A hand-picked directory of independent websites, browsed by category and by combining tags.
 Live at https://halfhumandraft.com.
 
@@ -30,3 +32,7 @@ before anything changes. The editorial policy is on the site's About page.
 
 The first version was built with Blink, an AI app builder, and offered accounts and votes.
 In late 2026 it was rebuilt as this static site, and the accounts were removed.
+
+## License
+
+Code under [MIT](LICENSE). Text (this README, the listing descriptions and the page text) under [CC BY 4.0](LICENSE-TEXT).

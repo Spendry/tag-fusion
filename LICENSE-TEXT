@@ -1,0 +1,16 @@
+The written material in this repository (README.md, the listing descriptions in
+data/catalog.json, and the page text that build.py writes into docs/) is
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+You may share and adapt it for any purpose, including commercially, as long as
+you give appropriate credit, link to the license, and indicate if changes were
+made.
+
+Full license: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Spendry
+
+The code (build.py, tools/, static/site.css and static/site.js) is under the
+MIT License in LICENSE. The websites listed in the directory belong to their
+own makers; this license covers the descriptions, not the sites.

@@ -25,7 +25,7 @@ SITE = "https://halfhumandraft.com"
 DOMAIN = "halfhumandraft.com"                               # the custom domain, written to docs/CNAME; "" serves from github.io
 REPO = "https://github.com/Spendry/tag-fusion"
 CONTACT_EMAIL = "spendry@proton.me"       # shown on the Contact page when set
-OPERATOR = ""                             # the name shown as who runs the site, when set
+OPERATOR = "Spendry"                          # the name shown as who runs the site, when set
 UPDATED = date.today().strftime("%B %d, %Y").replace(" 0", " ")
 # ----------------------------------------------------------------------------------------
 
