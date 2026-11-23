@@ -1,0 +1,16 @@
+# TagFusion
+
+> TagFusion is a hand-picked directory of 146 independent websites, browsed by broad categories and combinable tags.
+
+## Public pages
+
+- [Explore the directory](https://halfhumandraft.com/): Browse the catalog and combine tags.
+- [Search the directory](https://halfhumandraft.com/search/): Search listings by name, description, category, or tag.
+- [Field guide](https://halfhumandraft.com/field-guide/): How categories and tags work, and how to judge an unfamiliar website.
+- [About TagFusion](https://halfhumandraft.com/about/): Who runs it, how suggestions are reviewed, and the editorial policy.
+- [Contact](https://halfhumandraft.com/contact/): Suggest a website or report a listing.
+- [Privacy policy](https://halfhumandraft.com/privacy/): The site has no accounts, cookies, or analytics.
+- [Terms of use](https://halfhumandraft.com/terms/): The rules for using the directory.
+- [Full catalog as JSON](https://halfhumandraft.com/catalog.json)
+
+Listings are starting points, not endorsements or guarantees of external websites.

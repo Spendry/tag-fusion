@@ -1,0 +1,31 @@
+name: Report a listing
+description: Tell us a listing is broken, misleading, unsafe, or no longer fits.
+title: "Report: "
+labels: ["report"]
+body:
+  - type: markdown
+    attributes:
+      value: This form is public. Do not include anyone's personal details.
+  - type: input
+    id: listing
+    attributes:
+      label: Which listing?
+      description: Its name or address as shown on TagFusion.
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: What is wrong?
+      options:
+        - The link is broken
+        - The address now leads somewhere else
+        - The description is wrong or out of date
+        - The site shows adult, gambling, drug, piracy, scam or hateful content
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Anything that helps us check
