@@ -22,7 +22,7 @@ OUT = HERE / "docs"
 
 # ---- Settings Sam fills in -------------------------------------------------------------
 SITE = "https://halfhumandraft.com"
-DOMAIN = ""                               # the custom domain, written to docs/CNAME; "" serves from github.io
+DOMAIN = "halfhumandraft.com"                               # the custom domain, written to docs/CNAME; "" serves from github.io
 REPO = "https://github.com/Spendry/tag-fusion"
 CONTACT_EMAIL = ""                        # shown on the Contact page when set
 OPERATOR = ""                             # the name shown as who runs the site, when set
