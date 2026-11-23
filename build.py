@@ -292,7 +292,7 @@ def about():
 <p>There are no paid placements today. If one is ever shown, it will be labelled “Sponsor” and kept apart from the listings.</p>
 <h2>How should visitors use a listing?</h2>
 <p>Treat each result as a starting point. Check who runs the site and verify important claims with original sources. TagFusion does not guarantee that an external site is current, accurate, secure, accessible, or right for a particular decision.</p>
-<p>If a listing is broken, misleading, or out of date, <a href="{REPORT}">report it</a> or use the <a href="../contact/">contact page</a>.</p>"""
+<p>If a listing is broken or out of date, <a href="{REPORT}">report it</a> or use the <a href="../contact/">contact page</a>.</p>"""
     write("about/", "About TagFusion | How the directory works",
           "What TagFusion is, who runs it, how suggestions are reviewed, and what the directory will not list.",
           prose("About TagFusion", "A human-scale way to find the web.", inner))
@@ -308,7 +308,7 @@ def field_guide():
 <p>Categories show the broad kind of website. Tags name a subject or quality. A listing stays in the results only when it has every tag you chose.</p>
 <ul>{cats}</ul>
 <h2>What does a listing tell you?</h2>
-<p>That a person looked at the site, found it worth a visit, and described it. It does not check the site’s safety, accuracy, or privacy, and a site can change after it is listed.</p>
+<p>That a person looked at the site and found it worth a visit. It does not check whether the site is safe or accurate, and a site can change after it is listed.</p>
 <h2>How can you assess an unfamiliar website?</h2>
 <p>Before relying on a new site, ask a few simple questions:</p>
 <ul>
@@ -386,7 +386,7 @@ def terms():
 <h2>Suggestions</h2>
 <p>You are responsible for what you suggest and must have the right to share it. Do not suggest sites whose main content is {REFUSED}, and do not include other people’s personal data. A suggestion may be declined, and a listing may be removed, when it is inaccurate, unsafe, unavailable, infringing, deceptive, or does not fit the directory.</p>
 <h2>Editorial standards</h2>
-<p>TagFusion is a discovery directory, not a guarantee or endorsement of every external website. Descriptions aim to be accurate, useful, and original.</p>
+<p>TagFusion is a discovery directory, not a guarantee or endorsement of every external website. Descriptions aim to be accurate and useful.</p>
 <h2>External websites</h2>
 <p>TagFusion does not operate the websites it lists. Opening a listing means you are leaving TagFusion and accepting that destination’s terms and privacy practices.</p>
 <h2>Advertising</h2>
